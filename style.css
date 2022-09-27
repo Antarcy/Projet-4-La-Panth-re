@@ -660,6 +660,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+
 }
 
 .hero-bloc-text-sub {
@@ -776,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -825,6 +826,15 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
+
+
+/* Ajout perso étudiant */
+
+.col-sm-6 p{
+    font-size: 20px;
+}
+
+
 
 @media (max-width: 1024px) {
     .bloc {
