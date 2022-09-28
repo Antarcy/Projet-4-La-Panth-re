@@ -477,7 +477,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 44px!important;
 }
 
 .icon-lg {
@@ -705,6 +705,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     justify-content: space-between;
+    
 }
 
 h2 {
