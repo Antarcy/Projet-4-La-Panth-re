@@ -745,6 +745,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    max-height: 27rem;
+    max-width: 100%;
 }
 
 .portfolio-row {
